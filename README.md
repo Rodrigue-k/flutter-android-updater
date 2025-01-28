@@ -19,14 +19,14 @@ Les scripts permettent la mise à jour automatique des éléments suivants :
 
 ## Scripts Disponibles
 
-- **Linux** : `flutter-android-updater.sh`
-- **Windows** : `flutter-android-updater.ps1`
+- **Linux** : `flutter-android-updater-linux.sh`
+- **Windows** : `flutter-android-updater-windows.ps1`
 - **MacOS** : Script disponible via le lien du créateur original (voir section Credits)
 
 ## Utilisation
 
 ### Linux
-1. Téléchargez le fichier [`flutter-android-updater.sh`](flutter-android-updater-windows.ps1) depuis ce dépôt
+1. Téléchargez le fichier [`flutter-android-updater-linux.sh`](flutter-android-updater-linux.sh) depuis ce dépôt
 2. Rendez le script exécutable :
    ```bash
    chmod +x flutter-android-updater.sh
@@ -37,7 +37,7 @@ Les scripts permettent la mise à jour automatique des éléments suivants :
    ```
 
 ### Windows
-1. Téléchargez le fichier `flutter-android-updater.ps1` depuis ce dépôt
+1. Téléchargez le fichier [`flutter-android-updater-windows.ps1`](flutter-android-updater-windows.ps1) depuis ce dépôt
 2. Ouvrez PowerShell en tant qu'administrateur
 3. Activez l'exécution des scripts si nécessaire :
    ```powershell
