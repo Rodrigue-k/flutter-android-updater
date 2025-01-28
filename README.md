@@ -1,2 +1,2 @@
-# android-project-updater
- Ce dépôt contient des scripts pour mettre à jour les projets Android, notamment les versions Gradle, les versions de l'API, et d'autres configurations importantes, selon votre système d'exploitation.
+# flutter-android-updater
+ Un script bash pour mettre à jour les projets Android dans un projet Flutter sous Linux, adapté à partir du script macOS de (Andrea Bizzotto)https://gist.github.com/bizz84/605e2ca2088cb4acb7a076ca993f41cd
