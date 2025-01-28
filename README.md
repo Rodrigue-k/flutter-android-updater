@@ -26,7 +26,7 @@ Les scripts permettent la mise à jour automatique des éléments suivants :
 ## Utilisation
 
 ### Linux
-1. Téléchargez le fichier `flutter-android-updater.sh` depuis ce dépôt
+1. Téléchargez le fichier [`flutter-android-updater.sh`](flutter-android-updater-windows.ps1) depuis ce dépôt
 2. Rendez le script exécutable :
    ```bash
    chmod +x flutter-android-updater.sh
