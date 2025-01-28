@@ -1,5 +1,4 @@
-# flutter-android-updater
-Ces scripts sont adaptés à partir du script macOS de [Andrea Bizzotto]https://gist.github.com/bizz84/605e2ca2088cb4acb7a076ca993f41cd
+Ces scripts sont adaptés à partir du script macOS de [Andrea Bizzotto](https://gist.github.com/bizz84/605e2ca2088cb4acb7a076ca993f41cd)
 # Flutter Android Updater
 
 Ce dépôt contient des scripts permettant de mettre à jour les paramètres Android dans un projet Flutter. Les scripts sont adaptés pour **Linux**, **Windows**, et **MacOS**, afin de garantir une mise à jour facile et efficace de votre environnement de développement Android.
